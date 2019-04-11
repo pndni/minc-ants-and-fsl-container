@@ -29,5 +29,5 @@ From: pndni/minc-and-ants-container:1.0.1
 
 %labels
     Maintainer Steven Tilley
-    Version dev
+    Version 1.0.0
 
